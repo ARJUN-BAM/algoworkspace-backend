@@ -1,0 +1,12 @@
+com\algoworkspace\algoworkspace_backend\service\WorkspaceService.class
+com\algoworkspace\algoworkspace_backend\controller\WorkspaceController.class
+com\algoworkspace\algoworkspace_backend\AlgoworkspaceBackendApplication.class
+com\algoworkspace\algoworkspace_backend\controller\WorkspaceController$ErrorResponse.class
+com\algoworkspace\algoworkspace_backend\entity\Workspace.class
+com\algoworkspace\algoworkspace_backend\dto\StepCreateRequest.class
+com\algoworkspace\algoworkspace_backend\entity\Step.class
+com\algoworkspace\algoworkspace_backend\service\StepService.class
+com\algoworkspace\algoworkspace_backend\repository\StepRepository.class
+com\algoworkspace\algoworkspace_backend\dto\WorkspaceCreateRequest.class
+com\algoworkspace\algoworkspace_backend\repository\WorkspaceRepository.class
+com\algoworkspace\algoworkspace_backend\validator\SnapshotValidator.class
