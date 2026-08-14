@@ -1,0 +1,11 @@
+C:\Users\User\eclipse-projects-workspace\algoworkspace-backend\src\main\java\com\algoworkspace\algoworkspace_backend\AlgoworkspaceBackendApplication.java
+C:\Users\User\eclipse-projects-workspace\algoworkspace-backend\src\main\java\com\algoworkspace\algoworkspace_backend\controller\WorkspaceController.java
+C:\Users\User\eclipse-projects-workspace\algoworkspace-backend\src\main\java\com\algoworkspace\algoworkspace_backend\dto\StepCreateRequest.java
+C:\Users\User\eclipse-projects-workspace\algoworkspace-backend\src\main\java\com\algoworkspace\algoworkspace_backend\dto\WorkspaceCreateRequest.java
+C:\Users\User\eclipse-projects-workspace\algoworkspace-backend\src\main\java\com\algoworkspace\algoworkspace_backend\entity\Step.java
+C:\Users\User\eclipse-projects-workspace\algoworkspace-backend\src\main\java\com\algoworkspace\algoworkspace_backend\entity\Workspace.java
+C:\Users\User\eclipse-projects-workspace\algoworkspace-backend\src\main\java\com\algoworkspace\algoworkspace_backend\repository\StepRepository.java
+C:\Users\User\eclipse-projects-workspace\algoworkspace-backend\src\main\java\com\algoworkspace\algoworkspace_backend\repository\WorkspaceRepository.java
+C:\Users\User\eclipse-projects-workspace\algoworkspace-backend\src\main\java\com\algoworkspace\algoworkspace_backend\service\StepService.java
+C:\Users\User\eclipse-projects-workspace\algoworkspace-backend\src\main\java\com\algoworkspace\algoworkspace_backend\service\WorkspaceService.java
+C:\Users\User\eclipse-projects-workspace\algoworkspace-backend\src\main\java\com\algoworkspace\algoworkspace_backend\validator\SnapshotValidator.java
